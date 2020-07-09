@@ -1,4 +1,4 @@
-{
+module.exports = {
   "development": {
     "username": "express-cwz-dbuser",
     "password": "1337",
